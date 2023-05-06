@@ -1,2 +1,9 @@
-## RaiseTechTask1
-### RaiseTech第一回課題  
+# RaiseTech第一週課題  
+第一週課題です。
+
+### その他
+
+### 使用目的
+第一週課題を利用し、Git,GitHubの動作確認に使用しています。
+
+
